@@ -1,4 +1,4 @@
-33333const CONFIG_HEXO = {
+const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
   HOME_BANNER_GREETINGS: ['欢迎来到我的博客'], // 首页大图标语文字
 
